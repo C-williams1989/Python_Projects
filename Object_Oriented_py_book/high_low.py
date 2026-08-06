@@ -1,4 +1,4 @@
-#  HigherOrLower from https://github.com/IrvKalb/Object-Oriented-Python-Code/
+#  <3 HigherOrLower from https://github.com/IrvKalb/Object-Oriented-Python-Code/
 
 import random
 
